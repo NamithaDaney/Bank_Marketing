@@ -17,10 +17,10 @@ Link: [Bank_Marketing_Dataset](https://archive.ics.uci.edu/dataset/222/bank+mark
 Model performance was optimized by tuning hyperparameters using both Grid Search and Randomized Search strategies.
 
 ### Best Model: 
-####Random Forest ClassifierOutcome(Random Search Random Forest): 
-The Random Forest model achieved the absolute highest F1-Score (0.919987) and a near-perfect ROC-AUC (0.970911). This confirms it is highly effective at identifying successful term deposit subscribers without creating excessive false positives.
+- Random Forest ClassifierOutcome(Random Search Random Forest): 
+  The Random Forest model achieved the absolute highest F1-Score (0.919987) and a near-perfect ROC-AUC (0.970911). This confirms it is highly effective identifying successful term deposit subscribers without creating excessive false positives.
 
-####Deployment: 
+### Deployment: 
 This winning architecture was saved as a unified pipeline asset named bank_marketing_production_model.pkl and is fully ready to generate predictions on future raw marketing data.
 
 ## Model Download
