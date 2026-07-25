@@ -9,4 +9,4 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 The production model is available in the [Releases](https://github.com/NamithaDaney/Bank_Marketing/releases) section.
 
 Download the latest version:
-- [Bank Marketing Dataset v1.0.0](https://github.com/NamithaDaney/Bank_Marketing/releases/download/v1.0.0/your_file.bin)
+- [Bank Marketing Model v1.0.0](https://github.com/NamithaDaney/Bank_Marketing/releases/download/v1.0.0/your_file.bin)
